@@ -15,6 +15,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Moda Caboverdianaa",
+      "price": "23,99",
+      "description": "Milho, feijão, carne, verdurasMilho, feijão, carne, verduras",
+      "available": true,
+      "id": 4
     }
   ]
 }
